@@ -9,24 +9,31 @@ author_profile: true
 
 | SL. No. | Reg. No | Student Name | Research Area  | Status | Year of Registration|
 |---------|----------|---------------|----------------|-------|------------|
-| 01 | CE23DP001 | Anitha Nayak | 3D Concrete Printing Technology| Ongoing | 2023 |
-| 02 | CE23DP010 |  Manjunathgouda M Patil |3D Concrete Printing Technology | Ongoing | 2023 |
-| 03 | CE24DP003 |  Jugal Kishore M|AI in Stability Analysis of Infrastructure (Dam & Bridges)| Ongoing | 2024 |
+| 01 | CE23DP001 | Anitha Nayak | 3D Concrete Printable Structure Systems using Recycled Construction Waste| Ongoing | 2023 |
+| 02 | CE23DP010 |  Manjunathgouda M Patil |Low Carbon based 3D Printing for Sustainable Infrastructure| Ongoing | 2023 |
+| 03 | CE25DP004 |  Gayathri R Hitnalli|3D Printing for Composite Structural Systems| Ongoing | 2025 |
+| 04 | CE25DP007 |  Shreeya Alok |Structural Behaviour of 3D Concrete Printable Critical Infrastructure Systems| Ongoing | 2025|
 
-
-**2. PH.D. GUIDANCE at NIT Warangal**
+**2.B.TECH GUIDANCE at IIT Dharwad**
 
 | SL. No. | Reg. No | Student Name | Research Area  | Status | Year of Registration|
 |---------|----------|---------------|----------------|-------|------------|
-| 01 |720003| K Shanti Sri| AI/ML Models for Performance of Self Healing Concrete | Ongoing | 2020 |
-| 02 |720009| Manirathnam P| Alkali Activated Concrete and Life Cycle Assessment | Ongoing | 2020 |
+| 01 | CE22BT012| Tanishq Singh | Ultra High Performance Concrete| Ongoing | 2025-26 |
+| 02 | CE22BT011| S.V. S. Vamsi |Low Carbon based 3D Printing| Ongoing | 2025-26 |
+
+**3. PH.D. GUIDANCE at NIT Warangal**
+
+| SL. No. | Reg. No | Student Name | Research Area  | Status | Year of Registration|
+|---------|----------|---------------|----------------|-------|------------|
+| 01 |720009| Manirathnam P| Alkali Activated Concrete and Life Cycle Assessment | Completed | 2020-2025 |
+| 02 |720003| K Shanti Sri| AI/ML Models for Performance of Self Healing Concrete | Ongoing | 2020 |
 | 03 |721012| Ijjada Nandini| Autoclave Aerated Concrete | Ongoing | 2020 |
 | 04 |721010| Abhishek R| Eco-Friendly Building Envelopment Systems| Ongoing | 2020 |
 | 05 |21CERER12| Usharani V| Biochar based Geopolymer Concrete | Ongoing | 2021 |
 | 06 |22CER1R01| Ahamed Sharif| Clay based sustainable construction material| Ongoing | 2022 |
 
 
-**3.  M. Tech. Dissertation Guidance at NIT Warangal**
+**4.  M. Tech. Dissertation Guidance at NIT Warangal**
 
 # 2022-2023
 
@@ -67,7 +74,7 @@ author_profile: true
 | 08 |191578| V. Rishi Reddy | Integration of BIM & GIS for Route Optimisation for Resources  | 2022 |Sogtware Engineer,Hyderabad|
 
  
-**4. B. Tech. Dissertation Guidance at NIT Warangal** 
+**5. B. Tech. Dissertation Guidance at NIT Warangal** 
 
 # 2022-2023
 
