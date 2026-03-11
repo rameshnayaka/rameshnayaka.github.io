@@ -16,6 +16,9 @@ Before joining IIT Dharwad, Dr. Nayaka served as an Assistant Professor at NIT W
 
 His research is supported by funding agencies, focusing on projects such as: Sustainable 3D Concrete Printing for Structural Systems, Sustainable Building Envelop Systems, Stability Analysis of Dam; Materails Characterisation, BIM-based Life Cycle Cost and Environmental Assessments for FRC and FRP systems; Affordable Housing Solutions; Self-Healing Concrete and Autoclaved Aerated Concrete. Dr. Nayaka has published his research in high-impact journals and actively contributes to national and international academic collaborations.
 
+<img width="1536" height="1024" alt="Final_Infograph" src="https://github.com/user-attachments/assets/6a2cb3c8-a1c4-4c41-a829-0bb2585fa04c" />
+
+
 **Administrative Roles and Responsibilities**
 
 1. Member, Academic Senate, IIT Dharwad
