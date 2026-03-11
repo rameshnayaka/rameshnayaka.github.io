@@ -19,7 +19,7 @@ author_profile: true
 | SL. No. | Reg. No | Student Name | Research Area  | Status | Year of Registration|
 |---------|----------|---------------|----------------|-------|------------|
 | 01 | CE22BT012| Tanishq Singh | Ultra High Performance Concrete| Ongoing | 2025-26 |
-| 02 | CE22BT011| S.V. S. Vamsi |Low Carbon based 3D Printing| Ongoing | 2025-26 |
+| 02 | CE22BT011| S.V. S. Vamsi |Low Carbon Materials based 3D Printing| Ongoing | 2025-26 |
 
 **3. PH.D. GUIDANCE at NIT Warangal**
 
