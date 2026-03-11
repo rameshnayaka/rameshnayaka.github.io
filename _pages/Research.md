@@ -6,15 +6,7 @@ author_profile: true
 
 ---
 ## Research Interests
-- Structural Engineering and Materials 
-- 3D Concrete Printing and its Structural Performance 
-- Sustainable Structural Systems (Composite)
-- Low Carbon and Energy Efficient Building Systems
-- Construction Technology 
-- Building Information Modelling (BIM)
-- Life Cycle Environmental and Cost Assessment 
-- Optimization Techniques (AI/ML) for Sustainable Infrastructure
-
+<img width="1536" height="1024" alt="Final_Infograph" src="https://github.com/user-attachments/assets/91f797b4-f904-42d3-b91a-cb05b1eb0678" />
 
 ## Publications
 
@@ -46,6 +38,7 @@ All publications are available through following links:
 
 ### Patents/IP:
 **A Process of Producing a Light Weight Eco-Friendly Hollow Masonry Block** (Grant No. MY-198601-A. Date of Grant: 07.09.2023, Country: Malaysia)
+
 
 ### Exhibition:
 1. Won Global Sustainathon Challenge organsied by Masood Entrepreneurship Centre, University of Manchester, UK and Deshpande Start Ups, Hubballi. Visited University of Manchester, UK in July 2024. 
