@@ -21,18 +21,20 @@ His research is supported by funding agencies, focusing on projects such as: Sus
 
 **Administrative Roles and Responsibilities**
 
-1. Member, Academic Senate, IIT Dharwad
-2. Faculty in-Charge - Civil (Infrastructure, Planning, and Support), IIT Dharwad
-3. Advisor, Career Development Cell, IIT Dharwad
-4. Member, Green Initiative Committee, IIT Dharwad
-5. Member, UG-APEC Committee, IIT Dharwad
-6. Member, Furniture Purchase Committee, IIT Dharwad
-7. Member, Committee for Exit Plan of Final Year UG Students (2024–25), IIT Dharwad
-8. Member, Faculty Housing Allocation - Director's Discretion Quota (DDQ), IIT Dharwad
-9. Faculty Advisor (B.Tech. 2024 Batch), Civil and Infrastructure Engineering, IIT Dharwad
-10. Ph.D. Admission Coordinator, Civil and Infrastructure Engineering, IIT Dharwad
-11. Time Table Coordinator (June 2023 – May 2024), Dept. of CIE, IIT Dharwad
-12. Lab in-Charge (Construction Materials & Environmental Engineering), Dept. of CIE, IIT Dharwad
+1. Associate Dean (Infrastructure Planning and Support), IIT Dharwad (March 2026 to date)
+2. Vice-Chairman, Equal Opportunity Cell (SC/ST/OBC/EWS/PwD), IIT Dharwad (April 2026 to date)
+3. Member, Academic Senate, IIT Dharwad (September 2024 to date)
+4. Faculty Advisor (B.Tech. 2024 Batch), Civil and Infrastructure Engineering, IIT Dharwad
+5. Faculty in-Charge - Civil (Infrastructure, Planning, and Support), IIT Dharwad (Jan 2024 - March 2026)
+6. Advisor, Career Development Cell, IIT Dharwad (July 2023 to date)
+7. Member, Green Initiative Committee, IIT Dharwad (April 2024 to date)
+8. Member, UG-APEC Committee, IIT Dharwad ((September 2024 to date)
+9. Member, Policy for Faculty Housing Allocation - Director's Discretion Quota (DDQ), IIT Dharwad
+11. Ph.D. Admission Coordinator, Civil and Infrastructure Engineering, IIT Dharwad (2024-2025)
+12. Time Table Coordinator (June 2023 – May 2024), Dept. of CIE, IIT Dharwad
+13. Lab in-Charge (Construction Materials & Environmental Engineering), Dept. of CIE, IIT Dharwad
+14. Member, Furniture Purchase Committee, IIT Dharwad
+15. Member, Policy for Exit Plan of Final Year UG Students (2024–25), IIT Dharwad
 
 **Professional Memberships**
 1. Chartered Engineer (CEng), Institute of Engineers (IEI), India
