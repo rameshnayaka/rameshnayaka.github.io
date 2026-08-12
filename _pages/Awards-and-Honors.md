@@ -35,7 +35,7 @@ author_profile: true
 
 **MIT, Manipal Academy of Higher Education (MAHE), India in Academic Year 2019 - 2020**
 
-1. Co-coordinator, M.Tech. program in Construction Engineering and Management (CEM).
+1. Co-coordinator, M.Tech. program Batch 2019 - 2021.
 2. Co-coordinator, department National Board of Accreditation (NBA) committee.
 3. Co-coordinator for Departmental Syllabus Committee. 
 4. Member of the Research and Development (R&D) committee and Doctoral Advisory Committee. 
